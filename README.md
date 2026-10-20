@@ -1,44 +1,48 @@
-# Meu Projeto 🚀
+# Currículo Web & Portfólio — Luiz Eduardo Bonini 🚀
 
-Uma landing page moderna, leve e responsiva criada com HTML5, CSS3 e JavaScript puro.
-
----
-
-## 📁 Estrutura de Arquivos
-
-```text
-MEU PROJETO/
-├── index.html       # Estrutura semântica principal
-├── style.css        # Estilos modernos (dark mode, glassmorphism e responsivo)
-├── script.js        # Interatividade e scroll suave
-└── README.md        # Documentação do projeto
-```
+Página profissional desenvolvida com HTML5, CSS3 moderno e JavaScript puro para apresentação de currículo e portfólio online com suporte ao **GitHub Pages**.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 👨‍💻 Sobre o Profissional
 
-- **HTML5**: Estruturação semântica e acessível.
-- **CSS3**: Layouts flexíveis com Flexbox/CSS Grid, variáveis CSS, gradientes e design responsivo.
-- **JavaScript (Vanilla)**: Interações leves e sem dependências externas.
-- **Google Fonts**: Tipografia moderna com [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans).
-
----
-
-## 🚀 Como Executar o Projeto
-
-1. Abra a pasta do projeto.
-2. Dê um duplo clique no arquivo [`index.html`](index.html) para abrir diretamente no navegador, **ou**
-3. Se estiver usando o VS Code, utilize a extensão **Live Server** para rodar localmente com recarregamento automático.
+- **Nome**: Luiz Eduardo Bonini
+- **Cargo**: Desenvolvedor de Software Júnior | Back-end | Web
+- **Localização**: Araraquara – SP
+- **Contato**: [Luizeduardobonini0102@gmail.com](mailto:Luizeduardobonini0102@gmail.com) | (16) 98802-0295
+- **GitHub**: [github.com/eduardo-lbz](https://github.com/eduardo-lbz)
 
 ---
 
-## 📌 Próximos Passos Sugeridos
+## 🛠️ Tecnologias e Habilidades
 
-- [ ] Adicionar formulário funcional de contato.
-- [ ] Implementar menu hambúrguer para dispositivos móveis.
-- [ ] Personalizar textos, imagens e logotipo de acordo com o seu nicho.
+- **Linguagens**: Python, Java, JavaScript
+- **Web & Frameworks**: Django, React, HTML5, CSS3, APIs RESTful
+- **Bancos de Dados**: SQL, MySQL
+- **DevOps & Ferramentas**: Docker, Git, GitHub, TOTVS Protheus
 
 ---
 
-Desenvolvido com foco em boas práticas de design e código limpo.
+## 📂 Projetos em Destaque
+
+1. **[Ryvon Tech](https://github.com/eduardo-lbz/Ryvon-Tech)**: Arquitetura de software e organização de componentes no back-end.
+2. **Sabor & Companhia**: Rede social temática de culinária (Django + React + SQL).
+3. **Task API**: Desenvolvimento de APIs RESTful estruturadas com Docker.
+
+---
+
+## 🌿 Estrutura de Branches (Gitflow)
+
+- **`main`**: Código de produção estável.
+- **`develop`**: Branch de desenvolvimento contínuo.
+- **`gh-pages`**: Branch configurada para publicação automática no GitHub Pages.
+
+---
+
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/eduardo-lbz/Curriculo.Web.git
+   ```
+2. Abra o arquivo [`index.html`](index.html) diretamente no seu navegador.
